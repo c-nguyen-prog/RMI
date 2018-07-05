@@ -1,0 +1,5 @@
+3 math monday 08:00
+2 sport monday 09:00
+1 math tuesday 08:00
+2 sport wednesday 08:00
+1 test friday 10:00
